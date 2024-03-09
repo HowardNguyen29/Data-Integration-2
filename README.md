@@ -6,4 +6,4 @@ These days, there are numerous reported incidents of people seeing strange objec
 I aim to integrate datasets available from various sources such as Kaggle, election studies, or data.world. These datasets will cover topics related to UFO sightings, including crime rates, mental health statistics, air quality measurements, income levels, unemployment rates, temperature data, and presidential voting records. By analyzing and correlating these datasets with the UFO dataset from Kaggle, I hope to gain insights into any relationships or patterns.
 
 Here is the flowchart that I designed to do this project.
-[project tasks.drawio.pdf](https://github.com/HowardNguyen29/Data-Integration-2/files/14547885/project.tasks.drawio.pdf)
+<img width="1318" alt="Flowchart" src="https://github.com/HowardNguyen29/Data-Integration-2/assets/144277909/bb2f7b18-6054-4b1a-a216-4f5f96955ed8">
